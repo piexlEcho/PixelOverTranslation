@@ -2984,7 +2984,7 @@
             "checked": true
           },
           "es": {
-            "value": "Modo najo",
+            "value": "Modo bajo",
             "checked": true
           },
           "zh": {
@@ -8804,11 +8804,11 @@
                 "checked": true
               },
               "es": {
-                "value": "Establecer la posición y cambiar el tamaño. Haga clic en otro objeto para seleccionar.\\NHaga clic fuera para volver a la herramienta de selección.",
+                "value": "Establecer la posición y cambiar el tamaño. Haga clic en otro objeto para seleccionar.\\nHaga clic fuera para volver a la herramienta de selección.",
                 "checked": false
               },
               "zh": {
-                "value": "设置位置和调整大小。点击其他对象进行选择。（n点击外面，回到选择工具。",
+                "value": "设置位置和调整大小。点击其他对象进行选择。\\n点击外面，回到选择工具。",
                 "checked": false
               }
             },
@@ -8822,11 +8822,11 @@
                 "checked": true
               },
               "es": {
-                "value": "Deforme el objeto como un plano 3D. Haga clic en otro objeto para seleccionar.\\NHaga clic fuera para volver a la herramienta de selección.",
+                "value": "Deforme el objeto como un plano 3D. Haga clic en otro objeto para seleccionar.\\nHaga clic fuera para volver a la herramienta de selección.",
                 "checked": false
               },
               "zh": {
-                "value": "将物体变形为一个三维平面。点击其他对象进行选择。n点击外面，回到选择工具。",
+                "value": "将物体变形为一个三维平面。点击其他对象进行选择。\\n点击外面，回到选择工具。",
                 "checked": false
               }
             },
