@@ -6515,17 +6515,17 @@
               "checked": false
             }
           },
-          "Fit Children": {
+          "Auto Resize": {
             "en": {
-              "value": "Fit Children",
+              "value": "Auto Resize",
               "checked": true
             },
             "fr": {
-              "value": "S'adapter aux enfants",
+              "value": "Redimensionner auto",
               "checked": true
             },
             "es": {
-              "value": "Niños en forma",
+              "value": "Autoredimensionar",
               "checked": false
             },
             "zh": {
