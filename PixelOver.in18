@@ -1984,17 +1984,17 @@
             "checked": false
           }
         },
-        "For File": {
+        "For new project": {
           "en": {
-            "value": "For File",
+            "value": "For new project",
             "checked": true
           },
           "fr": {
-            "value": "Pour les fichiers",
+            "value": "Pour les nouveaux projets",
             "checked": true
           },
           "es": {
-            "value": "Para archivo",
+            "value": "Para nuevo proyecto",
             "checked": false
           },
           "zh": {
@@ -2002,17 +2002,17 @@
             "checked": false
           }
         },
-        "For Project": {
+        "For current project": {
           "en": {
-            "value": "For Project",
+            "value": "For current project",
             "checked": true
           },
           "fr": {
-            "value": "Pour les projets",
+            "value": "Pour les projets actuels",
             "checked": true
           },
           "es": {
-            "value": "Para proyecto",
+            "value": "Para proyecto actual",
             "checked": true
           },
           "zh": {
