@@ -9950,7 +9950,7 @@
             "checked": false
           },
           "zh": {
-            "value": "取消",
+            "value": "否",
             "checked": false
           }
         },
@@ -10040,7 +10040,7 @@
             "checked": false
           },
           "zh": {
-            "value": "上传问题",
+            "value": "上传错误报告",
             "checked": false
           }
         },
