@@ -944,7 +944,7 @@
             "checked": false
           },
           "zh": {
-            "value": "信息",
+            "value": "链接",
             "checked": false
           }
         },
@@ -1052,7 +1052,7 @@
             "checked": false
           },
           "zh": {
-            "value": "使用方法",
+            "value": "制作于",
             "checked": false
           }
         },
@@ -1163,7 +1163,7 @@
               "checked": false
             },
             "zh": {
-              "value": "资源节省模式。",
+              "value": "效能模式。",
               "checked": false
             }
           },
@@ -1690,7 +1690,7 @@
                 "checked": true
               },
               "zh": {
-                "value": "添加密钥",
+                "value": "添加关键帧",
                 "checked": false
               }
             },
@@ -2052,7 +2052,7 @@
             "checked": false
           },
           "zh": {
-            "value": "介面",
+            "value": "界面",
             "checked": false
           }
         },
@@ -2196,7 +2196,7 @@
             "checked": true
           },
           "zh": {
-            "value": "描边空间",
+            "value": "间距",
             "checked": false
           }
         },
@@ -2502,7 +2502,7 @@
             "checked": true
           },
           "zh": {
-            "value": "每一次备份",
+            "value": "备份频率",
             "checked": false
           }
         },
@@ -2520,7 +2520,7 @@
             "checked": true
           },
           "zh": {
-            "value": "保持备份，以便",
+            "value": "备份存储时间",
             "checked": false
           }
         },
@@ -2538,7 +2538,7 @@
             "checked": false
           },
           "zh": {
-            "value": "行动",
+            "value": "操作",
             "checked": false
           }
         },
@@ -2556,7 +2556,7 @@
             "checked": false
           },
           "zh": {
-            "value": "天数",
+            "value": "天",
             "checked": false
           }
         },
@@ -2646,7 +2646,7 @@
             "checked": false
           },
           "zh": {
-            "value": "显示检查器",
+            "value": "显示透明背景",
             "checked": false
           }
         },
@@ -2664,7 +2664,7 @@
             "checked": false
           },
           "zh": {
-            "value": "合适的缩放",
+            "value": "自动缩放",
             "checked": false
           }
         },
@@ -2682,7 +2682,7 @@
             "checked": false
           },
           "zh": {
-            "value": "细胞大小",
+            "value": "网格大小",
             "checked": false
           }
         },
@@ -2700,7 +2700,7 @@
             "checked": false
           },
           "zh": {
-            "value": "初级",
+            "value": "淡色",
             "checked": false
           }
         },
@@ -2718,7 +2718,7 @@
             "checked": false
           },
           "zh": {
-            "value": "中学",
+            "value": "重色",
             "checked": false
           }
         },
@@ -2952,7 +2952,7 @@
             "checked": false
           },
           "zh": {
-            "value": "捷径",
+            "value": "快捷键",
             "checked": false
           }
         },
@@ -2988,7 +2988,7 @@
             "checked": true
           },
           "zh": {
-            "value": "低模式",
+            "value": "效能模式",
             "checked": false
           }
         }
@@ -9659,7 +9659,7 @@
               "checked": false
             },
             "zh": {
-              "value": "进口",
+              "value": "其他",
               "checked": false
             }
           },
@@ -9731,7 +9731,7 @@
               "checked": false
             },
             "zh": {
-              "value": "细胞",
+              "value": "网格",
               "checked": false
             }
           },
@@ -9749,7 +9749,7 @@
               "checked": false
             },
             "zh": {
-              "value": "细胞的数量。",
+              "value": "网格的数量。",
               "checked": false
             }
           },
@@ -9785,7 +9785,7 @@
               "checked": false
             },
             "zh": {
-              "value": "细胞",
+              "value": "网格",
               "checked": false
             }
           },
@@ -9859,7 +9859,7 @@
               "checked": true
             },
             "zh": {
-              "value": "有了%s的行动。",
+              "value": "有了%s的操作。",
               "checked": false
             }
           },
